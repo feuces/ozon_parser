@@ -1,0 +1,12 @@
+{
+  "info": {
+	"author": "https://github.com/feuces",
+    "version": 1.0
+  },
+  "settings": {
+    "async_data": "eyJ1cmwiOiIvcHJvZHVjdC9hcmF2aWEtcHJvZmVzc2lvbmFsLWtyZW0tZGx5YS1saXRzYS1pbnRlbnNpdm5vLXV2bGF6aG55YXl1c2hjaGl5LWludGVuc2l2ZS1tb2lzdHVyZS1zLW1vY2hldmlub3ktMTAtMTUyMDcyMDY5Lz9sYXlvdXRfY29udGFpbmVyPXBkcFJldmlld3NcdTAwMjZsYXlvdXRfcGFnZV9pbmRleD0yXHUwMDI2bWluaWFwcD1zdXBlcm1hcmtldFx1MDAyNnNoPW1IS1lzZXJVa3ciLCJjaSI6eyJpZCI6NDI4NTY1LCJuYW1lIjoibGlzdFJldmlld3NEZXNrdG9wIiwidmVydGljYWwiOiJycFByb2R1Y3QiLCJ2ZXJzaW9uIjoxLCJwYXJhbXMiOlt7Im5hbWUiOiJwYWdpbmF0aW9uVHlwZSIsInRleHQiOiJsb2FkTW9yZUJ1dHRvbiJ9LHsibmFtZSI6InNvcnRpbmdUeXBlIiwidGV4dCI6InVzZWZ1bG5lc3NfZGVzYyJ9LHsibmFtZSI6InBhcmFtUGFnZVNpemUiLCJpbnQiOjEwfSx7Im5hbWUiOiJwYXJhbVZhcmlhbnRNb2RlRW5hYmxlZCJ9LHsibmFtZSI6InZpZGVvQWxsb3dlZCIsImJvb2wiOnRydWV9XX19",
+	"proxie": {"http": "http://login:pass@ip:port"},
+	"save_images": 1,
+	"timeout": 0
+    }
+}
